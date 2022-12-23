@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438087113325",
+    "project_id": "anmol-vachan-a674b",
+    "storage_bucket": "anmol-vachan-a674b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438087113325:android:a9c5f46b5969ec28057d64",
+        "android_client_info": {
+          "package_name": "com.dhurva.anmol_vachan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438087113325-lvjt82vv861n72cuk23rva123n6lidoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBioTeZDQUZLL1596Jug6WKIcRf5jK5UDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438087113325-lvjt82vv861n72cuk23rva123n6lidoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
